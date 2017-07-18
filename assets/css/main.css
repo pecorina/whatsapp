@@ -1,0 +1,78 @@
+*{
+	font-family: verdana, serif;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+/*del fondo el verde*/
+#verde{
+	background-color: green;
+	width: 100%;
+	height: 200px;
+}
+
+#fondito{
+	background-color: whitesmoke;
+	height: 700px;
+}
+
+.chati{
+	background-color: yellow;
+	height: 80px;
+	margin: 66px;
+	display: flex;
+	justify-content: center;
+
+}
+
+.chati img{
+	background-repeat: no-repeat;
+	width: 70px; 
+	height: 70px;
+	margin-left: -237px;
+    margin-top: 15px;
+}
+
+#labor img{
+	background-repeat: no-repeat;
+	width: 50px; 
+	height: 50px;
+	margin-left: 
+    margin-top: 
+}
+#contactos{
+	background-color: whitesmoke;
+	height: 700px;
+	width: 400px;
+    margin-top: -67px;
+    margin-left: 115px;
+}
+
+.icon{
+	background-color: black;
+}
+
+input{
+	width: 250px;
+	height: 30px;
+	border-color: black;
+	display: flex;
+	justify-content: center;
+	margin-left: 25px;
+}
+
+#smoke{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+    margin-top: 0;
+    margin-left: -49px;
+}
+
+.col-lg-9{
+    margin: inherit;
+}
+
+hr{
+	width: 100%;
+}
